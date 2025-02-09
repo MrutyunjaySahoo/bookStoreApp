@@ -1,0 +1,98 @@
+[
+    {
+        "id":1,
+        "name":"Fiction Book",
+        "title":"A gripping narrative that transports readers to imaginative worlds, filled with complex characters plots that reflect the human experiences.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/three-giraffes-living-by-river_1308-55578.jpg?t=st=1738953514~exp=1738957114~hmac=9a1bf801740c9b7decc059bec9ffa4b561883cb7332344c0f1b1d5ba3c5f7f91&w=900"
+    },
+    {
+        "id":2,
+        "name":"Story Book",
+        "title":"A captivating tale of adventure and self-discovery, where unlikely heroes unite to overcome darkness and unveil hidden truths.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/three-giraffes-living-by-river_1308-55578.jpg?t=st=1738953514~exp=1738957114~hmac=9a1bf801740c9b7decc059bec9ffa4b561883cb7332344c0f1b1d5ba3c5f7f91&w=900"
+    },
+    {
+        "id":3,
+        "name":"Music Book",
+        "title":"A captivating tale of adventure and self-discovery, where unlikely heroes unite to overcome darkness and unveil hidden truths.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/three-giraffes-living-by-river_1308-55578.jpg?t=st=1738953514~exp=1738957114~hmac=9a1bf801740c9b7decc059bec9ffa4b561883cb7332344c0f1b1d5ba3c5f7f91&w=900"
+    },
+    {
+        "id":4,
+        "name":"Facty Book",
+        "title":"A thought-provoking analysis (compelling exploration) of real-world issues that blends research with insights to inspire new perspectives.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/three-giraffes-living-by-river_1308-55578.jpg?t=st=1738953514~exp=1738957114~hmac=9a1bf801740c9b7decc059bec9ffa4b561883cb7332344c0f1b1d5ba3c5f7f91&w=900"
+    },
+    {
+        "id":5,
+        "name":"Comedy Book",
+        "title":"A comedic journey through life's absurdities, brimming with quirky characters and uproarious moments that will have you in stitches.",
+        "price":229,
+        "category":"Fun",
+        "image":"https://img.freepik.com/free-vector/fairytale-castle-rapunzel-with-long-hair_52683-34800.jpg?ga=GA1.1.154360845.1734598843&semt=ais_incoming"
+    },
+    {
+        "id":6,
+        "name":"Sports Book",
+        "title":"It'z a journey through the highs and lows of athletic competition, showcasing the grit, determination, and heart that define true champions.",
+        "price":259,
+        "category":"Sports",
+        "image":"https://img.freepik.com/free-vector/fairytale-castle-rapunzel-with-long-hair_52683-34800.jpg?ga=GA1.1.154360845.1734598843&semt=ais_incoming"
+    },
+    {
+        "id":7,
+        "name":"Voyage Book",
+        "title":"A delectable collection of journies that invites you to explore flavors from around the world, making life delight an exciting adventure.",
+        "price":169,
+        "category":"Travel",
+        "image":"https://img.freepik.com/free-vector/fairytale-castle-rapunzel-with-long-hair_52683-34800.jpg?ga=GA1.1.154360845.1734598843&semt=ais_incoming"
+    },
+    {
+        "id":8,
+        "name":"Fantasy Book",
+        "title":"An enchanting adventure through magical realms, where mythical creatures, and the battle between good and evil come to life in vivid detail.",
+        "price":199,
+        "category":"18+",
+        "image":"https://img.freepik.com/free-vector/fairytale-castle-rapunzel-with-long-hair_52683-34800.jpg?ga=GA1.1.154360845.1734598843&semt=ais_incoming"
+    },
+    {
+        "id":9,
+        "name":"Music Book",
+        "title":"A captivating tale of adventure, self-discovery, where unlikely heroes unite to overcome darkness and unveil hidden truths.",
+        "price":219,
+        "category":"Song",
+        "image":"https://img.freepik.com/free-vector/fairytale-castle-rapunzel-with-long-hair_52683-34800.jpg?ga=GA1.1.154360845.1734598843&semt=ais_incoming"
+    },
+    {
+        "id":10,
+        "name":"Cooking Book",
+        "title":"A delectable collection of recipes that invites you to explore flavors from around the world, making home cooking an exciting adventure.",
+        "price":269,
+        "category":"Food",
+        "image":"https://img.freepik.com/free-vector/fairytale-castle-rapunzel-with-long-hair_52683-34800.jpg?ga=GA1.1.154360845.1734598843&semt=ais_incoming"
+    },
+    {
+        "id":10,
+        "name":"GK Book",
+        "title":"An engaging collection of trivia and facts that broadens your knowledge and sharpens your general awareness across diverse topics.",
+        "price":209,
+        "category":"GK/GS",
+        "image":"https://img.freepik.com/free-vector/fairytale-castle-rapunzel-with-long-hair_52683-34800.jpg?ga=GA1.1.154360845.1734598843&semt=ais_incoming"
+    },
+    {
+        "id":10,
+        "name":"WWE Book",
+        "title":"A captivating journey into the world of wrestling, exploring the fierce competition, dedication, and the artistry behind the mat.",
+        "price":189,
+        "category":"Wrestling",
+        "image":"https://img.freepik.com/free-vector/fairytale-castle-rapunzel-with-long-hair_52683-34800.jpg?ga=GA1.1.154360845.1734598843&semt=ais_incoming"
+    }
+]
